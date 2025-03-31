@@ -21,12 +21,14 @@
     4. **Save Changes**
 
 **Add GitHub Social Connnection**
+
 6. Go to **Getting Started** > Add a social login provider > Add Social Connections
 7. **Create Connection** > New Social Connection > Choose GitHub > **Continue**
 8. **New GitHub Social Connection** > Create
 9. On **github** connection page > Applications using this connection > **React SPA:** Turn on 
 
 **Get Your App's Domain and Client ID**
+
 10. Go back to **Applications**
 12. **React SPA *(Your app)*** > Connections > See if Github is enabled
 13. Go to your app's > **Settings**
