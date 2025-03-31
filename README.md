@@ -33,6 +33,7 @@
 12. **React SPA *(Your app)*** > Connections > See if Github is enabled
 13. Go to your app's > **Settings**
 14. Copy your **Domain** and **Client ID**
+15. Sign out from **auth0.com** 
 
 
 ### Setup VSCode Project
@@ -67,9 +68,12 @@
 
 10. Add your **Domain** and **Client ID** to the `.env ` file:
     ```
-    REACT_APP_AUTH0_DOMAIN=your_auth0_domain
-    REACT_APP_AUTH0_CLIENT_ID=your_auth0_client_id
+    VITE_AUTH0_DOMAIN=your_auth0_domain
+    VITE_AUTH0_CLIENT_ID=your_auth0_client_id
     ```
-
 11. Add the `.env` file to `.gitignore` file
 12. Run frontend server with: `npm run dev`
+13. Open app on browser > Click **Sign In**
+14. On **Auth0** Login page, select **Continue with Github** > **Authorize iam-login**
+15. On **Authorize App** page > Click **Accept**
+16. Check if **Sign Out** button is displayed on your React app
