@@ -1,6 +1,8 @@
 # React-Auth0 User Login & Registration
 
 - Using Auth0 to quickly add a full-featured login system to a React app
+- Choose Auth0 if your client wants to add authentication features to an app quickly and if you are ready to pay for it.
+- For your own projects, build your own login system to avoid the monthly fees. It also gives you more flexibility and control as you do not have to request a feature that did not exist.
 
 
 ## Getting Started
