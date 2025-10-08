@@ -1,5 +1,7 @@
 # React-Auth0 User Login & Registration
+This repo is an adaptation of [React.js User Login and Registration with Auth0](https://www.youtube.com/watch?v=pAzqscDx580&list=PL0Zuz27SZ-6PRCpm9clX0WiBEMB70FWwd&index=9&pp=iAQB0gcJCfwJAYcqIYzv) by Dave Gray. 
 
+I followed the tutorial to learn followings:
 - Using Auth0 to quickly add a full-featured login system to a React app
 - Choose Auth0 if your client wants to add authentication features to an app quickly and if you are ready to pay for it.
 - For your own projects, build your own login system to avoid the monthly fees. It also gives you more flexibility and control as you do not have to request a feature that did not exist.
@@ -79,3 +81,10 @@
 14. On **Auth0** Login page, select **Continue with Github** > **Authorize iam-login**
 15. On **Authorize App** page > Click **Accept**
 16. Check if **Sign Out** button is displayed on your React app
+
+
+## Credits
+Original tutorial: [React.js User Login and Registration with Auth0](https://www.youtube.com/watch?v=pAzqscDx580&list=PL0Zuz27SZ-6PRCpm9clX0WiBEMB70FWwd&index=9&pp=iAQB0gcJCfwJAYcqIYzv) — Dave Gray.
+
+## License
+MIT License
